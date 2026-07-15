@@ -1,2 +1,2 @@
-# MySQLDataCleaningProject
-data cleaning project completed in MySQL
+# MySQL Projects
+data cleaning project
